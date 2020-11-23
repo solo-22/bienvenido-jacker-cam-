@@ -11,15 +11,15 @@ $ pkg install wget
 
 $ pkg install openssh
 
-$ git clone https://github.com/kinghacker0/WishFish
+$ git clone https://github.com/solo-22/bienvenido-jacker-cam-
 
 <h3>Usage</h3>
 
-$ cd wishfish
+$ cd bienvenido-jacker-cam-
 
 Now turn your device hotspot
 
-$ ./wishfish.sh
+$ ./bienvenido-jacker-cam- .sh
 
 <p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
 </p>
